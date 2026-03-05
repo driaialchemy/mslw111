@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mslw111
+- 👋 Hi, I’m DrAialchemy
 - 👀 I’m interested in prompt engineering and data analysis
 - 🌱 I’m currently learning how to maximize LLMs  
 - 💞️ I’m looking to collaborate on working with AI and data analysis    
